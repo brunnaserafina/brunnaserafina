@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm currently a student at Driven, a Software Engineering School;<br>I'm also graduating in Software Analysis and Development from Universidade SENAC;<br>I’m currently learning React Native;</p>
+<p align="center">I'm currently a student at Driven, a Software Engineering School;<br>I'm also graduating in Software Analysis and Development from Universidade SENAC;<br>I’m currently learning React Native and Node.js;</p>
 
 ###
 
