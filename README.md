@@ -29,15 +29,14 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="24" alt="linkedin logo"  />
+  <a href="https:/www.linkedin.com/in/brunna-serafina" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="24" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/brunnaserafina/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="24" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/brunnaserafina" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" height="24" alt="facebook logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCLCDPkEXJLWTcWymjcYpeKw/videos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="36" height="24" alt="youtube logo"  />
   </a>
 </div>
 
