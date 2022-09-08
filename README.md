@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <a href="https:/www.linkedin.com/in/brunna-serafina" >
+  <a href="https://www.linkedin.com/in/brunna-serafina" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="24" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/brunnaserafina/" target="_blank">
