@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">■ Eu sou a Brunna Serafina (ela / dela)<br>■ Estou no bootcamp da Driven Education - desenvolvimento web full stack<br>■ Sou graduanda em Análise e Desenvolvimento de Sistemas na Universidade SENAC<br>■ Estou aprendendo React Native, NodeJS e PostGreSQL</p>
+<p align="left">■ Eu sou a Brunna Serafina (ela / dela)<br>■ Atualmente estou no bootcamp da Driven Education com foco em desenvolvimento web full stack<br>■ Também sou graduanda em Análise e Desenvolvimento de Sistemas na Universidade SENAC<br>■ Estou aprendendo React Native, NodeJS e PostGreSQL</p>
 
 ###
 
