@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">■ Eu sou a Brunna Serafina (ela / dela)<br>■ Atualmente estou no bootcamp da Driven Education com foco em desenvolvimento web full stack<br>■ Também sou graduanda em Análise e Desenvolvimento de Sistemas na Universidade SENAC<br>■ Estou aprendendo React Native, NodeJS e PostGreSQL</p>
+<p align="left">■ Eu sou a Brunna Serafina da Silva (ela / dela);<br>■ Estou no bootcamp da Driven Education - desenvolvimento web full stack;<br>■ Sou graduanda em Análise e Desenvolvimento de Sistemas na Universidade SENAC;<br>■ Atualmente estou aprendendo React Native, NodeJS e PostGreSQL;</p>
 
 ###
 
@@ -36,8 +36,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=pt-br&hide_border=false&username=brunnaserafina" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=panda&hide_border=false&username=brunnaserafina" height="148" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=pt-br&hide_border=false&username=brunnaserafina" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&username=brunnaserafina" height="148" alt="languages graph"  />
 </div>
 
 ###
@@ -64,3 +64,4 @@
 </div>
 
 ###
+Profile Readme Generator
