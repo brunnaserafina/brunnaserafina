@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">■ Eu sou a Brunna Serafina da Silva (ela / dela);<br>■ Estou no bootcamp da Driven Education - desenvolvimento web full stack;<br>■ Sou graduanda em Análise e Desenvolvimento de Sistemas na Universidade SENAC;<br>■ Atualmente estou aprendendo React Native, NodeJS e PostGreSQL;</p>
+<p align="left">■ Eu sou a Brunna Serafina da Silva (ela / dela);<br>■ Estou no bootcamp da Driven Education - desenvolvimento web full stack;<br>■ Sou graduanda em Análise e Desenvolvimento de Sistemas na Universidade SENAC;<br>■ Atualmente estou aprendendo TypeScript;</p>
 
 ###
 
@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" width="43" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="33" width="43" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="33" width="43" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="33" width="43" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" width="43" alt="vscode logo"  />
 </div>
 
