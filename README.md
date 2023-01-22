@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">■ Eu sou a Brunna Serafina da Silva (ela / dela);<br>■ Estou no bootcamp da Driven Education - desenvolvimento web full stack;<br>■ Sou graduanda em Análise e Desenvolvimento de Sistemas na Universidade SENAC;<br>■ Atualmente estou aprendendo desenvolvendo um projeto autoral;</p>
+<p align="left">■ Eu sou a Brunna Serafina da Silva (ela / dela);<br>■ Estou no bootcamp da Driven Education - desenvolvimento web full stack;<br>■ Sou graduanda em Análise e Desenvolvimento de Sistemas na Universidade SENAC;<br>■ Atualmente estou desenvolvendo um projeto autoral;</p>
 
 ###
 
