@@ -65,15 +65,21 @@
 
 <br clear="both">
 
+
+
 <div align="center">
-  <a href="mailto:brunnaserafina@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="facebook logo"  />
+
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/847319" target="_blank">
+    <img src="https://camo.githubusercontent.com/b21d347661a71f44bb85cb2b136935a8ebe9ccb82ad898022d75e9a6a833ca86/68747470733a2f2f7777772e62656563726f77642e636f6d2e62722f6a756467652f66617669636f6e2e69636f3f31363335303937303336" height="42" alt="beecrowd logo"  />
   </a>
+
   <a href="https://www.linkedin.com/in/brunna-serafina" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="35" alt="linkedin logo"  />
   </a>
   
-
+  <a href="mailto:brunnaserafina@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png" height="33" alt="facebook logo"  />
+  </a>
   
 </div>
 
