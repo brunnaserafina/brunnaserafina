@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/92396247cce516278919b3fc74f9af3b2e965319e17975627680c446e7f1d013/68747470733a2f2f70726f322d6261722d73332d63646e2d6366352e6d79706f7274666f6c696f2e636f6d2f31376134376439653866343732376365356633653438383035623264386562322f36376362316134362d316430632d343566652d616233662d3532306534383032623162385f7277635f3078377838303078363236783830302e6769663f683d3365663338643262636563653736323033343535323538653064353835666539"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"  />
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">■ Eu sou a Brunna Serafina da Silva (ela / dela);<br>■ Formada em desenvolvimento web full-stack pelo bootcamp da Driven Education;<br>■ Sou graduanda em Análise e Desenvolvimento de Sistemas na Universidade SENAC;<br>■ Atualmente estou aprendendo Vue.js;</p>
+<p align="left">■ Eu sou a Brunna Serafina da Silva (ela / dela);<br>■ Formada em desenvolvimento web full-stack pelo bootcamp da Driven Education;<br>■ Graduada em Análise e Desenvolvimento de Sistemas na Universidade SENAC;<br></p>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="center">Vamos nos conectar:</h3>
+<h3 align="center">Contatos:</h3>
 
 ###
 
@@ -62,10 +62,6 @@
 
 
 <div align="center">
-
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/847319" target="_blank">
-    <img src="https://camo.githubusercontent.com/b21d347661a71f44bb85cb2b136935a8ebe9ccb82ad898022d75e9a6a833ca86/68747470733a2f2f7777772e62656563726f77642e636f6d2e62722f6a756467652f66617669636f6e2e69636f3f31363335303937303336" height="42" alt="beecrowd logo"  />
-  </a>
 
   <a href="https://www.linkedin.com/in/brunna-serafina" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="35" alt="linkedin logo"  />
