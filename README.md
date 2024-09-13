@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Olá! Bem-vindo(a) ao meu github 👋</h1>
+<h1 align="left">Olá! Bem-vindo(a) ao meu github </h1>
 
 ###
 
